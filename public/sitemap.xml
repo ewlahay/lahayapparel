@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-11-18T12:00:00-04:00</lastmod>
+    <loc>/post/fearless/</loc>
+    <lastmod>2020-11-26T15:16:10-05:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-11-26T15:16:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/shirt/</loc>
+    <lastmod>2020-11-26T15:16:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/t-shirts/</loc>
+    <lastmod>2020-11-26T15:16:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-26T15:16:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2020-11-18T12:00:00-04:00</lastmod>
   </url>
   
@@ -18,17 +38,7 @@
   </url>
   
   <url>
-    <loc>/tags/shirt/</loc>
-    <lastmod>2020-11-18T11:00:08-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/t-shirt/</loc>
-    <lastmod>2020-11-18T11:00:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-11-18T11:00:08-04:00</lastmod>
   </url>
   
